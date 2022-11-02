@@ -1,0 +1,24 @@
+
+@media (max-width: 767px) {
+
+    .fram .container .box .left {
+        flex-basis: 100%;
+    }
+
+    .fram .container .box .left .box .img {
+        margin-left: 0px;
+        padding: 30px 30px;
+    }
+
+    .fram .container .box .right .icon ul {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .fram .container .box .right .icon ul li {
+        width: 150px;
+    }
+
+
+}
+

@@ -1,0 +1,38 @@
+
+/*  */
+
+@media (max-width: 991px) {
+
+    .fram .container .box {
+        flex-direction: column;
+    }
+
+    .fram .container .box .left .box .img img {
+        left: 0px;
+    }
+
+    .fram .container .box .right {
+        text-align: center;
+    }
+
+    .fram .container .box .right .about {
+        left: 50%;
+        transform: translate(-50%);
+        -webkit-transform: translate(-50%);
+        -moz-transform: translate(-50%);
+        -ms-transform: translate(-50%);
+        -o-transform: translate(-50%);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
